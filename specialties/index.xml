@@ -5,14 +5,39 @@
     <link>/specialties/</link>
     <description>Recent content in Specialties on Brian Danin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/specialties/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="/specialties/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Web Systems</title>
       <link>/specialties/web-systems/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>/specialties/web-systems/</guid>
-      <description>Web applications, with expertise in Drupal, WordPress, and other open source platforms. See MindSing for more information.</description>
+      <description>Professional open source web development solutions tailored to any business needs.
+Providing professional solutions for web applications for over 15 years as an expert in Drupal, WordPress, and other open source platforms. With a focus on front-end, JavaScript, HTML, PHP, Google Tag Manager (GTM), and other core web technologies. Committed to providing the best quality solutions that are tailored to meet the needs of any business.
+As technology continues to evolve, it can be difficult to keep track of all the new web technologies out there.</description>
+    </item>
+    
+    <item>
+      <title>SnowSports</title>
+      <link>/specialties/snowsports/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/specialties/snowsports/</guid>
+      <description>Brian has ski and snowboard certifications from PSIA - AASI Professional Ski and Snowboard Instructors of America, and is a professional ski and snowboard teacher for students of all levels.
+Whether you have never been on the snow before or you are an advanced rider, let&amp;rsquo;s connect.
+Please contact me for more information or to book a a private lesson today!</description>
+    </item>
+    
+    <item>
+      <title>Finance</title>
+      <link>/specialties/finance/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/specialties/finance/</guid>
+      <description>Since 2020, Brian has worked in the insurance and investment industry and is a financial agent with life and health licenses. He focuses on community impact and personal financial sustainability.
+If you are interested to find out more, start a quote today:
+ </description>
     </item>
     
   </channel>
