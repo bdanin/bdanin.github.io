@@ -1,0 +1,17 @@
+h1 {
+  font-weight: normal;
+}
+
+.link, .link:active, .link:focus, .link:hover, .link:link, .link:visited {
+  transition: transform 0.1s;
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+  transition: transform 0.1s;
+}
+
+a:hover {
+  transform: scale(1.1);
+}

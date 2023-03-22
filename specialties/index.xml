@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Specialties on Brian Danin</title>
+    <link>/specialties/</link>
+    <description>Recent content in Specialties on Brian Danin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/specialties/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web Systems</title>
+      <link>/specialties/web-systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/specialties/web-systems/</guid>
+      <description>Web applications, with expertise in Drupal, WordPress, and other open source platforms. See MindSing for more information.</description>
+    </item>
+    
+  </channel>
+</rss>
