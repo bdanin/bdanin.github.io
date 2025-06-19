@@ -25,3 +25,18 @@ a:hover {
 #briandanin-quote .strife-frame {
   border: none;
 }
+
+/* Main call-to-action link styling */
+main article a {
+  color: #d2691e; /* Warm orange */
+  font-weight: bold;
+}
+
+main article a:hover {
+  color: #b8621b; /* Darker orange on hover */
+  transform: scale(1.05);
+}
+
+main article a:visited {
+  color: #d2691e; /* Keep same color when visited */
+}
